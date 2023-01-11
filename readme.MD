@@ -1,18 +1,18 @@
 ## This is only for the pre-group testing only.
-There are four dev branch. choose on to use and then merge to the main
-dev-eric, dev-kirin, dev-annika, dev-cory
+Backend is falskapp
 
-new
-
-backend is falskapp
 run command:
+```
 pipenv install
 pipenv run flask run
+```
+Frontend is reactapp
 
-frontend is reactapp
 run command:
+```
 npm install
 npm start
+```
 
 user features are not included in the file
 
