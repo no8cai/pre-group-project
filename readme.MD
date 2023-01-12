@@ -1,4 +1,4 @@
-## This is only for the pre-group testing only.
+## This is for the pre-group testing only.
 Backend is falskapp
 
 run command:
